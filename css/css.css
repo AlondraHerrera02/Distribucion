@@ -1,0 +1,46 @@
+li{
+    display:inline-flex;
+    flex-direction:row; 
+    width:30px;
+    padding:10px;
+    margin-top:4px;
+    background-color:#9B7B99; 
+    margin:0px 20px 20px 20px;
+   
+}  
+.contenedor div{
+    background-color: #9B7B99;
+    border: 1px solid #DFDFDF;
+    width: 250px;
+    height: 50px;
+    display:flex;
+    margin:0px 100px 30px 825px;
+}
+.btn_banner{
+    display: block;
+    width: 100px;
+    margin: auto;
+    padding:12px;
+    border-radius:10px;
+    margin-top:15px;
+    
+    background-color: #4A4A4A;    
+}
+.contenedor{
+    background-color:#DFDFDF;
+    height:420px; 
+}
+
+.final div{
+ width: 200px;
+ height:200px;
+ background-color: white;
+ border: 2px solid black;
+ display: inline-flex; 
+ margin:18px 230px 50px 4px;
+
+}
+
+
+    
+
